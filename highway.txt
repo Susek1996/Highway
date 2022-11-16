@@ -1,0 +1,7 @@
+140;5;600
+CAR;5;1;120;1;4;toyota corolla 1;azt12345
+MOTORCYCLE;4;2;150;2;2;honda civic 2;tst54321
+TRUCK;3;1;250;3;4;duży fiat 3;tst52233
+BUS;2;2;250;6;4;busik 4;tst51895
+CAR;5;2;120;7;4;toyota celica 5;azt12312
+
